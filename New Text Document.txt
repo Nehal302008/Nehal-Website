@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "UPDATE"
+git remote add origin https://github.com/Nehal302008/Nehal-Website.git
+git branch -M master
+git push -u origin master
